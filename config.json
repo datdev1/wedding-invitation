@@ -1,0 +1,106 @@
+{
+  "bride": {
+    "firstName": "Ngọc Bích",
+    "fullName": "Trần Thị Ngọc Bích",
+    "role": "CÔ DÂU",
+    "bank": {
+      "name": "MB Bank",
+      "accountNumber": "",
+      "accountHolder": "Trần Thị Ngọc Bích",
+      "qrImage": "assets/images/qr/bride-qr_.jpg"
+    },
+    "parents": {
+      "father": "Trần Khắc Tấn",
+      "mother": "Trần Thị Tĩnh",
+      "address": "KP Đa Hội, Phường Phù Khê, TP Bắc Ninh"
+    }
+  },
+  "groom": {
+    "firstName": "Công Tiến",
+    "fullName": "Nguyễn Công Tiến",
+    "role": "CHÚ RỂ",
+    "bank": {
+      "name": "MB Bank",
+      "accountNumber": "",
+      "accountHolder": "Nguyễn Công Tiến",
+      "qrImage": "assets/images/qr/groom-qr_.jpg"
+    },
+    "parents": {
+      "father": "Nguyễn Công Đan",
+      "mother": "Phùng Thị Thanh Hằng",
+      "address": "KP __, Phường Từ Sơn, TP Bắc Ninh"
+    }
+  },
+  "ceremony": {
+    "time": "11:00",
+    "dayOfWeek": "THỨ BA",
+    "date": 17,
+    "month": 11,
+    "monthName": "THÁNG 11",
+    "year": 2026,
+    "lunarDate": "09/10 NĂM BÍNH NGỌ ÂM LỊCH",
+    "venue": "TƯ GIA"
+  },
+  "reception": {
+    "time": "15:00",
+    "dayOfWeek": "THỨ BA",
+    "date": 17,
+    "month": 11,
+    "monthName": "THÁNG 11",
+    "year": 2026,
+    "lunarDate": "09/10 NĂM BÍNH NGỌ ÂM LỊCH",
+    "banquetTime": "13:00"
+  },
+  "coverDate": "17 tháng 11, 2026",
+  "coverTime": "11:00",
+  "defaultGuest": "Bạn",
+  "salutation": "Thân Mời",
+  "invitationMessage": "Đến dự buổi tiệc chung vui cùng gia đình",
+  "footerMessage": "Sự hiện diện của quý khách là niềm vinh hạnh\ncủa gia đình chúng tôi!",
+  "venues": {
+    "bride": {
+      "label": "Nhà gái",
+      "address": "KP Đa Hội, Phường Phù Khê, TP Bắc Ninh",
+      "mapQuery": "21.15289342058316,105.94212620314183",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1000!2d105.94212620314183!3d21.15289342058316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1700000000000"
+    },
+    "groom": {
+      "label": "Nhà trai",
+      "address": "KP __, Phường Từ Sơn, TP Bắc Ninh",
+      "mapQuery": "21.131066103159878,105.9095027585827",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1000!2d105.9095027585827!3d21.131066103159878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1700000000000"
+    }
+  },
+  "gallery": {
+    "images": [
+      "assets/images/gallery/01.jpg",
+      "assets/images/gallery/02.jpg",
+      "assets/images/gallery/03.jpg",
+      "assets/images/gallery/04.jpg",
+      "assets/images/gallery/05.jpg",
+      "assets/images/gallery/06.jpg",
+      "assets/images/gallery/07.jpg",
+      "assets/images/gallery/08.jpg",
+      "assets/images/gallery/09.jpg",
+      "assets/images/gallery/10.jpg",
+      "assets/images/gallery/11.jpg",
+      "assets/images/gallery/12.jpg"
+    ],
+    "heroImage": "assets/images/gallery/06.jpg"
+  },
+  "decorations": {
+    "floral": "assets/images/decorations/floral.svg"
+  },
+  "music": {
+    "src": "assets/audio/le-duong-mot-doi.mp3",
+    "enabled": true
+  },
+  "themeColor": "#511419",
+  "calendar": {
+    "month": 11,
+    "year": 2026,
+    "firstDayOffset": 6,
+    "totalDays": 30,
+    "highlightDay": 17
+  }
+}

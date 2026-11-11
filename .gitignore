@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Original sample files (not needed for deployment)
+sample.html
+sample_inside.html
+sample_files/
+sample_inside_files/
+style.css
+package.json
+
+# Original high-res images (too large for GitHub Pages)
+images/
