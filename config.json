@@ -59,16 +59,16 @@
   "footerMessage": "Sự hiện diện của quý khách là niềm vinh hạnh\ncủa gia đình chúng tôi!",
   "venues": {
     "bride": {
-      "label": "Nhà gái",
+      "label": "Lễ Vu Quy",
       "address": "KP Đa Hội, Phường Phù Khê, TP Bắc Ninh",
       "mapQuery": "21.124505,105.917392",
       "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d232.60632851818866!2d105.91724411272475!3d21.12447327615993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDA3JzI4LjIiTiAxMDXCsDU1JzAyLjYiRQ!5e0!3m2!1svi!2s!4v1794407688332!5m2!1svi!2s"
     },
     "groom": {
-      "label": "Nhà trai",
-      "address": "Lý Tự Trọng, Phường Từ Sơn, TP Bắc Ninh",
-      "mapQuery": "21.1174556,105.9733869",
-      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d232.61733417323694!2d105.97338685603593!3d21.117455570528215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135087682403899%3A0x9c4154657b81ccb5!2zODggTMO9IFThu7EgVHLhu41uZywgVOG7qyBTxqFuLCBC4bqvYyBOaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1794407791803!5m2!1svi!2s"
+      "label": "Tiệc Cưới",
+      "address": "(Nhà hàng Ngọc Anh) 547 Lý Thường Kiệt, Đa Hội, Phù Khê, Bắc Ninh",
+      "mapQuery": "21.1228265,105.9173277",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d375.21591588196884!2d105.91732766888158!3d21.122826528573658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31350709554912d7%3A0x4f560b309cfa846e!2zTmjDoCBow6BuZyBOZ-G7jWMgQW5o!5e0!3m2!1svi!2s!4v1794410961081!5m2!1svi!2s"
     }
   },
   "gallery": {

@@ -190,6 +190,8 @@
       </div>
       <p class="lunar">TỨC NGÀY ${r.lunarDate}</p>
       <p class="banquet">KHAI TIỆC<br><strong>${r.banquetTime}</strong></p>
+      <p class="formal ceremony-place">(Nhà hàng Ngọc Anh) 547 Lý Thường Kiệt, Phù Khê, Bắc Ninh</p>
+      <br>
       <div class="wedding-calendar">
         <p>Tháng ${cal.month} / ${cal.year}</p>
         <div class="calendar-grid">${calendarHTML}</div>
@@ -217,7 +219,7 @@
 
     return `
     <section class="venue narrow-section">
-      <h2>ĐỊA ĐIỂM HAI GIA ĐÌNH</h2>
+      <h2>ĐỊA ĐIỂM TỔ CHỨC</h2>
       ${venueArticle('bride')}
       ${venueArticle('groom')}
     </section>`;
