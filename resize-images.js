@@ -18,7 +18,7 @@ async function resize() {
   }
 
   const galleryDir = path.join(__dirname, 'assets', 'images', 'gallery');
-  const origDir = path.join(__dirname, 'images');
+  const origDir = path.join(__dirname, 'original_images');
 
   // Read original high-res images
   const origFiles = fs.readdirSync(origDir).filter(f => f.endsWith('.jpg')).sort();
