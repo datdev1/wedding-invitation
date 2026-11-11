@@ -61,14 +61,14 @@
     "bride": {
       "label": "Nhà gái",
       "address": "KP Đa Hội, Phường Phù Khê, TP Bắc Ninh",
-      "mapQuery": "21.15289342058316,105.94212620314183",
-      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1000!2d105.94212620314183!3d21.15289342058316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1700000000000"
+      "mapQuery": "21.124505,105.917392",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d232.60632851818866!2d105.91724411272475!3d21.12447327615993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDA3JzI4LjIiTiAxMDXCsDU1JzAyLjYiRQ!5e0!3m2!1svi!2s!4v1794407688332!5m2!1svi!2s"
     },
     "groom": {
       "label": "Nhà trai",
-      "address": "KP __, Phường Từ Sơn, TP Bắc Ninh",
-      "mapQuery": "21.131066103159878,105.9095027585827",
-      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1000!2d105.9095027585827!3d21.131066103159878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1700000000000"
+      "address": "Lý Tự Trọng, Phường Từ Sơn, TP Bắc Ninh",
+      "mapQuery": "21.1174556,105.9733869",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d232.61733417323694!2d105.97338685603593!3d21.117455570528215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135087682403899%3A0x9c4154657b81ccb5!2zODggTMO9IFThu7EgVHLhu41uZywgVOG7qyBTxqFuLCBC4bqvYyBOaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1794407791803!5m2!1svi!2s"
     }
   },
   "gallery": {
