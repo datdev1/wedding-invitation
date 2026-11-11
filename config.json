@@ -32,7 +32,7 @@
     }
   },
   "ceremony": {
-    "time": "11:00",
+    "time": "15:00",
     "dayOfWeek": "THỨ BA",
     "date": 17,
     "month": 11,
@@ -42,14 +42,14 @@
     "venue": "TƯ GIA"
   },
   "reception": {
-    "time": "15:00",
+    "time": "11:00-13:00",
     "dayOfWeek": "THỨ BA",
     "date": 17,
     "month": 11,
     "monthName": "THÁNG 11",
     "year": 2026,
     "lunarDate": "09/10 NĂM BÍNH NGỌ ÂM LỊCH",
-    "banquetTime": "13:00"
+    "banquetTime": "11:00"
   },
   "coverDate": "17 tháng 11, 2026",
   "coverTime": "11:00",
